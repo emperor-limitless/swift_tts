@@ -1,0 +1,4 @@
+module Ctts [system][extern_c] {
+    umbrella header "tts.h"
+    export *
+}
